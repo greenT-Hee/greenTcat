@@ -538,7 +538,7 @@ h1{
     width: 80px;
     height: 127px;
     background-color: rgb(255, 255, 255);
-    border-left: 13px solid rgb(72, 114, 27);
+    border-left: 12.5px solid rgb(72, 114, 27);
     border-radius:  130% 0 0 0 ;
 }
 
